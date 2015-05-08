@@ -14,7 +14,7 @@ $( document ).ready(function(){
     }).addTo( map );
 
     // marker array
-    var markers = []    
+    var markers = []; 
 
     var months = ["January", "February", "March", "April", "May", "June",
       "July", "August", "September", "October", "November", "December"
@@ -107,6 +107,8 @@ $( document ).ready(function(){
 
       function onBrushUp(){
 
+        removeMarkers(markers);
+
         var value = brush.extent()[0];
 
         var stations = data.filter(function(station){
@@ -125,10 +127,22 @@ $( document ).ready(function(){
       }
 
       function createMarker(location){
-        L.marker( [location.coords[0], location.coords[1]] )
+        var newMarker = L.marker( [location.coords[0], location.coords[1]] )
           .bindPopup( location.stationName + "<br> opened " + location.dateOpened)
         .addTo( map );
+        return newMarker;
       }
+
+      function removeMarkers (markers) {
+        markers.forEach(function(marker){
+          removeMarker(marker);
+        });
+      }
+
+      function removeMarker (marker) {
+        map.removeLayer(marker);
+      }
+
 
       function updateDate(value,node){
 
