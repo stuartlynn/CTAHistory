@@ -120,7 +120,7 @@ $( document ).ready(function(){
 
       function pinMarkers (locations) {
         locations.forEach(function (Location) {
-          markers.push(createMarker(Location);)
+          markers.push(createMarker(Location));
         });
       }
 
