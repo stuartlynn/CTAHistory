@@ -1,0 +1,38 @@
+Line,Branch,Station Name,Date Opened,Date Closed,Coordinates,Street Address
+Green,South Side Main Line,Congress Terminal,6/6/1892,8/1/1949,"41.8757, -87.6268",550 s. Holden Court
+Green,South Side Main Line,Congress/Wabash,10/18/1897,8/1/1949,"41.8757154, -87.6260177",500 S. Wabash Avenue
+Green,South Side Main Line,Roosevelt(elevated,6/6/1892,,"41.867368, -87.627402",1167 S. State St
+Green,South Side Main Line,18th,6/6/1892,8/1/1949,"41.857933, -87.62.6389",18th and Wabash
+Green,South Side Main Line,Cermak-McCormick Place,6/6/1892,9/1/1977,"41.8531548, -87.626423",12 E.Cermak
+Green,South Side Main Line,Cermak-McCormick Place,2/8/2015,,"41.8531548, -87.626423",12 E.Cermak
+Green,South Side Main Line,26th,6/6/1892,8/1/1949,"41.845674, -87.626165",
+Green,South Side Main Line,29th,6/6/1892,8/1/1949,"41.841989, -87.626122",
+Green,South Side Main Line,31st,6/6/1892,8/1/1949,"41.838427, -87.626015",
+Green,South Side Main Line,33rd,6/6/1892,8/1/1949,"41.834804, -87.625932",
+Green,South Side Main Line,35th-Bronzeville-IIT,6/6/1892,,"41.831677, -87.625826",16 E 35th Street
+Green,South Side Main Line,Pershing,6/6/1892,8/1/1949,"41.823852, -87.625682",
+Green,South Side Main Line,Indiana,8/15/1892,,"41.821732, -87.621371",
+Green,South Side Main Line,43rd,8/15/1892,,"41.816462,  -87.619021",
+Green,South Side Main Line,47th,8/15/1892,,"41.80940, -87.61909",
+Green,South Side Main Line,51st,8/28/1892,,"41.80220, -87.61903",
+Green,South Side Main Line,Garfield,10/12/1892,,"41.79454, -87.61835",
+Green,South Side Main Line,58th,1/22/1893,1/9/1994,"41.789233, -87.618027",
+Green,E 63rd/Jackson Park,61st,1/22/1893,1/9/1994,"41.783621, -87.617955",
+Green,E 63rd/Jackson Park,King Drive,5/1/1893,,"41.78013, -87.615546",
+Green,E 63rd/Jackson Park,Cottage Grove,4/23/1893,,"41.780309, -87.60585",
+Green,E 63rd/Jackson Park,University,4/23/1893,1/9/1994,"41.780417, -87.597548",
+Green,E 63rd/Jackson Park,Dorchester,4/23/1893,1/13/1973,"41.780613, -87.591041",
+Green,E 63rd/Jackson Park,Jackson Park(Stony Island,5/12/1893,3/4/1983,"41.780560, -87.586674",
+Green,E 63rd/Jackson Park,Jackson Park,5/12/1893,10/31/1983,"41.780584, -87.584270",
+Green,Ashland/Englewood,State,11/3/1905,9/2/1973,"41.786890, -87.625450",
+Green,Ashland/Englewood,Wentworth,12/10/1905,2/9/1992,"41.786824, -87.630172",
+Green,Ashland/Englewood,Princeton,1/11/1906,8/1/1949,"41.779840, -87.632661",
+Green,Ashland/Englewood,Harvard,11/3/1906,2/9/1992,"41.779374, -87.633346",
+Green,Ashland/Englewood,Parnell,12/24/1906,7/31/1949,"41.779084, -87.638709",
+Green,Ashland/Englewood,Halsted,12/24/1906,,"41.77954, -87.64468",
+Green,Ashland/Englewood,Racine,2/25/1907,1/9/1994,"41.779076, -87.654599",
+Green,Ashland/Englewood,Loomis,7/13/1907,5/6/1969,"41.779041, -87.659359",
+Green,Ashland/Englewood,Ashland,5/6/1969,,"41.77943, -87.66393",
+None,Normal Park,65th,5/26/1907,1/29/1954,"41.776190, -87.635433",
+None,Normal Park,Marquette Road,5/26/1907,1/29/1954,"41.772673, -87.635593",
+None,Normal Park,69th,5/26/1907,1/29/1954,"41.768874, -87.638451",
